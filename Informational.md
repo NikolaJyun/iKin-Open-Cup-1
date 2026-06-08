@@ -10,6 +10,10 @@
 
 -   Date: September 14-20, 2026
 
+-   Time zone: GMT+8 HKT
+
+-   Type: Online (Hong Kong / Hangzhou Servers via 5EPlay)
+
 ## Open Qualifier
 
 -   This tournament does not include Direct VRS Invites based on VRS list, all participants will be invited through open qualifier. Registration on a "first-come-first-served" basis in each open qualifier.
@@ -26,7 +30,7 @@
             
           -   Registration open: 00:00 August 1, 2026 ~ 13:55 August 8, 2026
             
-          -   Registration link:
+          -   Registration link: https://www.faceit.com/zh/championship/4dd1fe5e-89dc-488d-8dc0-18872debda3b/iKin%20Open%20Cup%201%20-%20Asian%20Qualifier
             
           -   Date: August 8, 2026
             
@@ -40,7 +44,7 @@
             
           -   Registration open: 00:00 August 1, 2026 ~ 13:55 August 15, 2026
             
-          -   Registration link:
+          -   Registration link: https://www.faceit.com/zh/championship/a7c4c085-683c-401b-8f48-5aed79c18eb0/iKin%20Open%20Cup%201%20-%20HK-MO-TW%20Qualifier
  
           -   Date: August 15, 2026
             
@@ -78,7 +82,7 @@
 
 -   All qualifie teams need join KOOK server for main event https://kook.vip/cG0QQS , or you can add ⌈KikiLam1216⌋ on WeChat if you can't use KOOK.
 
--   Asian Qualifier & HK-MO-TW Qualifier will host on FACEIT via Singapore server, Southeast Coastal Qualifier & Chinese Qualifier will host on 5EPlay via Hangzhou server.
+-   Asian Qualifier & HK-MO-TW Qualifier will play on Singapore server via FACEIT, Southeast Coastal Qualifier & Chinese Qualifier will play on Hangzhou server via 5EPlay.
 
 ## Group Stage
 
