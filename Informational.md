@@ -1,22 +1,20 @@
 # UPDATE 1
 
-- This event are cancel now.
-- 
-- And we change # RGG Invitational Season 4 # to this name # iKin Open Cup 1 #
-
-
+- 22 June 2026, 21:00 HKT
+- This event are change name from # RGG Invitational Season 4 # to # iKin Open Cup 1 #
+- And change prize pool: From 6,666.66 CNY to 6,666 CNY
 
 # iKin Open Cup 1
 
 -   Organizer: iKin Esports
 
--   Tournament Tier: Tier 2
+-   Tournament Tier: Unrank
 
 -   Main Event Teams: 8
 
--   Prize Pool: ￥9,778 CNY
+-   Prize Pool: ￥6,666 CNY
 
--   Date: September 14-20, 2026
+-   Date: July 15-20, 2026
 
 -   Time zone: GMT+8 HKT
 
@@ -24,77 +22,63 @@
 
 ## Open Qualifier
 
--   This tournament does not include Direct VRS Invites based on VRS list, all participants will be invited through open qualifier. Registration on a "first-come-first-served" basis in each open qualifier.
+-   Total 3 Open Qualifier will be set:
 
--   The upper limit of registered teams for each qualifying match is adjusted according to the number of qualified spots. For every additional qualified spot, the maximum number of participating teams increases by 32.
-
--   Total 4 Open Qualifier will be set:
-
-     -   Asian Qualifier
+     -   Cantonese Qualifier
 
           -   Qualifie team: 1
             
           -   Maximum number teams: 32
             
-          -   Registration open: 00:00 August 1, 2026 ~ 13:55 August 8, 2026
+          -   Registration open: 00:00 June 1, 2026 ~ 13:55 June 20, 2026
             
-          -   Registration link: https://www.faceit.com/zh/championship/4dd1fe5e-89dc-488d-8dc0-18872debda3b/iKin%20Open%20Cup%201%20-%20Asian%20Qualifier
+          -   Registration link: [https://www.challengermode.com/s/iKinGG/tournaments/f4e50ba9-11cf-4a2d-fa1c-08de98a5b86b](https://www.challengermode.com/s/iKinGG/tournaments/f4e50ba9-11cf-4a2d-fa1c-08de98a5b86b)
             
-          -   Date: August 8, 2026
+          -   Date: June 20, 2026
             
-          -   Eligible regions: China, Hong Kong, Macao, Taiwan, Mongolia, Japan, Korea, Vietnam, Philippines, Malaysia, Singapore, Thailand, Laos, Cambodia, Myanmar, Indonesia, Brunei
-
-     -   HK-MO-TW Qualifier
-
-          -   Qualifie team: 1
+          -   Eligible regions: Guangdong, Guangxi, Hong Kong, Macao, Fujian, Taiwan, Hainan, Hunan, Jiangxi
+      
+          - IN FACT
             
-          -   Maximum number teams: 32
-            
-          -   Registration open: 00:00 August 1, 2026 ~ 13:55 August 15, 2026
-            
-          -   Registration link: https://www.faceit.com/zh/championship/a7c4c085-683c-401b-8f48-5aed79c18eb0/iKin%20Open%20Cup%201%20-%20HK-MO-TW%20Qualifier
- 
-          -   Date: August 15, 2026
-            
-          -   Eligible regions: Hong Kong, Macao, Taiwan
-
-     -   Southeast Coastal Qualifier
-
-          -   Qualifie team: 2
-            
-          -   Maximum number teams: 64
-            
-          -   Registration open: 00:00 August 1, 2026 ~ 13:55 August 19, 2026
-            
-          -   Registration link: https://www.kdocs.cn/l/civZ5k1hEwZq
-            
-          -   Date: August 22, 2026
-            
-          -   Eligible regions: Guangdong, Guangxi, Hong Kong, Macao, Fujian, Taiwan, Hainan, Zhejiang, Jiangsu, Shanghai, Shandong
-
-     -   Chinese Qualifier
+              - Only 3 teams check in when start so it can't run on CM, you can ckeck here for all informational for this qualifier: [https://www.kdocs.cn/l/ce9LSK3Ig32J](https://www.kdocs.cn/l/ce9LSK3Ig32J)
+      
+      -   Chinese Qualifier
  
           -   Qualifie team: 4
             
-          -   Maximum number teams: 128
+          -   Maximum number teams: 256
             
-          -   Registration open: 00:00 August 1, 2026 ~ 13:55 August 26, 2026
+          -   Registration open: 00:00 June 1, 2026 ~ 12:00 June 24, 2026
             
-          -   Registration teams link: https://www.kdocs.cn/l/chWLxOdxSU8g
+          -   Registration teams link: [https://www.kdocs.cn/l/chWLxOdxSU8g](https://www.kdocs.cn/l/ck2SnIK7LLxP)
             
-          -   Date: August 29, 2026
+          -   Date: June 27-28, 2026
             
           -   Eligible regions: China, Hong Kong, Macao, Taiwan
+
+     -   Asian Qualifier
+
+          -   Qualifie team: 2
+            
+          -   Maximum number teams: 128
+            
+          -   Registration open: 00:00 June 1, 2026 ~ 13:55 July 4, 2026
+            
+          -   Registration link: [https://www.faceit.com/zh/championship/4dd1fe5e-89dc-488d-8dc0-18872debda3b/iKin%20Open%20Cup%201%20-%20Asian%20Qualifier](https://www.challengermode.com/s/iKinGG/tournaments/25448932-5285-4bb8-9b06-08deaf628dd5)
+            
+          -   Date: July 4, 2026
+            
+          -   Eligible regions: China, Hong Kong, Macao, Taiwan, Mongolia, Japan, Korea, Vietnam, Philippines, Malaysia, Singapore, Thailand, Laos, Cambodia, Myanmar, Indonesia, Brunei
       
 -   Teams need 3+ player form listed region, iKin Esports may require contestants to provide their identification if need. If they are unable to provide or do not meet the requirements of the competition area, the organizer has the right to cancel the team's qualification at any time.
 
--   All qualifie teams need join KOOK server for main event https://kook.vip/cG0QQS , or you can add ⌈KikiLam1216⌋ on WeChat if you can't use KOOK.
+-   All qualifie teams need join KOOK server for main event https://kook.vip/cG0QQS , or you can add ⌈KikiLam1216⌋ on WeChat or send email to csevents@ikin.fun if you can't use KOOK.
 
--   Asian Qualifier & HK-MO-TW Qualifier will play on Singapore server via FACEIT, Southeast Coastal Qualifier & Chinese Qualifier will play on Hangzhou server via 5EPlay.
+-   Asian Qualifier & Cantonese Qualifier will play on Singapore / Hong Kong / Tokyo servers via CM, Chinese Qualifier will play on Hangzhou server via 5EPlay.
 
 ## Group Stage
 
--   Date: September 14-15, 2026
+-   Date: July 15-16, 2026
 
 -   Two double-elimination format (GSL) groups
 
@@ -108,11 +92,11 @@
 
 ## Playoffs
 
--   Date: September 16-20, 2026
+-   Date: July 17-20, 2026
 
 -   Double-Elimination bracket
 
--   UB Quarterfinals, UB Semifinals are Bo1
+-   UB Quarterfinals, UB Semifinals and LB Quarterfinals are Bo1
 
 -   Grand Final are Bo5
 
@@ -120,16 +104,8 @@
 
 ## Prize Pool
 
--   Total: ￥9,778 CNY
+-   Total: ￥6,666 CNY
 
-     -   1st: ￥5,778 CNY
+     -   1st: ￥5,678 CNY
        
-     -   2nd: ￥2,778 CNY
- 
-     -   3rd: ￥778 CNY
- 
-     -   4th: ￥278 CNY
- 
-     -   5th~6th: ￥78 CNY
- 
-     -   7th~8th: ￥5 CNY
+     -   2nd: ￥988 CNY
