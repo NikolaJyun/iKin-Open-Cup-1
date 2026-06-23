@@ -1,129 +1,87 @@
-# UPDATE
-
-- 23 June 2026, 22:00 HKT
-  
-     - Map pool change.
-       
-          - Main Event will using:
-      
-               - Ancient, Anubis, Cache, Dust2, Inferno, Mirage, Nuke
-      
-          - Open Qualifier will using:
-      
-               - Ancient, Anubis, Dust2, Inferno, Mirage, Nuke, Overpass
-
-- 22 June 2026, 21:00 HKT
-  
-     - This event are change name from # RGG Invitational Season 4 # to # iKin Open Cup 1 #
-       
-     - And change prize pool: From 6,666.66 CNY to 6,666 CNY
-
 # iKin Open Cup 1
 
--   Organizer: iKin Esports
+## 更新資訊 (UPDATE)
+**2026 年 6 月 23 日，22:00 HKT**
+地圖池變更。
+* **主賽事** 使用地圖：Ancient、Anubis、Cache、Dust2、Inferno、Mirage、Nuke
+* **公開預選賽** 使用地圖：Ancient、Anubis、Dust2、Inferno、Mirage、Nuke、Overpass
 
--   Tournament Tier: Unrank
+**2026 年 6 月 22 日，21:00 HKT**
+* 賽事名稱由「RGG Invitational Season 4」更改為「**iKin Open Cup 1**」
+* 總獎金由 6,666.66 人民幣調整為 **6,666 人民幣**
 
--   Main Event Teams: 8
-  
-     - 1 Invited from [RGG Invitational Season 3](https://liquipedia.net/counterstrike/IKin_Esports/RGG_Invitational/Season_3)
- 
-     - 7 Invited from Open Qualifier
+---
 
--   Prize Pool: ￥6,666 CNY
+## 賽事概覽 (Tournament Overview)
+* **主辦單位：** iKin Esports
+* **賽事等級：** 非排名賽 (Unrank)
+* **主賽事隊伍數：** 8 支
+    * 1 支邀請自 RGG Invitational Season 3
+    * 7 支晉級自公開預選賽
+* **總獎金：** ￥6,666 人民幣
+* **日期：** 2026 年 7 月 15 日至 20 日
+* **時區：** GMT+8 HKT
+* **賽事類型：** 線上賽 (透過 5EPlay 使用香港/杭州伺服器)
 
--   Date: July 15-20, 2026
+---
 
--   Time zone: GMT+8 HKT
+## 公開預選賽 (Open Qualifier)
+總共設有 3 場公開預選賽：
 
--   Type: Online (Hong Kong / Hangzhou Servers via 5EPlay)
+### 粵語預選賽 (Cantonese Qualifier)
+* **晉級名額：** 1 隊
+* **隊伍上限：** 32 隊
+* **報名時間：** 2026 年 6 月 1 日 00:00 ~ 6 月 20 日 13:55
+* **報名連結：** [Challengermode](https://www.challengermode.com/s/iKinGG/tournaments/f4e50ba9-11cf-4a2d-fa1c-08de98a5b86b)
+* **日期：** 2026 年 6 月 20 日
+* **參賽區域：** 廣東、廣西、香港、澳門、福建、台灣、海南、湖南、江西
+* **實際情況：** 因比賽開始時僅 3 支隊伍報到，Challengermode 無法順利進行。請至此處查看所有資訊：[金山文件](https://www.kdocs.cn/l/ce9LSK3Ig32J)
 
-## Open Qualifier
+### 中國預選賽 (Chinese Qualifier)
+* **晉級名額：** 4 隊
+* **隊伍上限：** 256 隊
+* **報名時間：** 2026 年 6 月 1 日 00:00 ~ 6 月 24 日 12:00
+* **報名連結：** [金山文件](https://www.kdocs.cn/l/chWLxOdxSU8g)
+* **日期：** 2026 年 6 月 27 日至 28 日
+* **參賽區域：** 中國、香港、澳門、台灣
 
--   Total 3 Open Qualifier will be set:
+### 亞洲預選賽 (Asian Qualifier)
+* **晉級名額：** 2 隊
+* **隊伍上限：** 128 隊
+* **報名時間：** 2026 年 6 月 1 日 00:00 ~ 7 月 4 日 13:55
+* **報名連結：** [FACEIT](https://www.faceit.com/zh/championship/4dd1fe5e-89dc-488d-8dc0-18872debda3b/iKin%20Open%20Cup%201%20-%20Asian%20Qualifier)
+* **日期：** 2026 年 7 月 4 日
+* **參賽區域：** 中國、香港、澳門、台灣、蒙古、日本、韓國、越南、菲律賓、馬來西亞、新加坡、泰國、寮國、柬埔寨、緬甸、印尼、汶萊
 
-     -   Cantonese Qualifier
+> **重要注意事項：** 隊伍需有 3 名以上選手來自上述指定區域。iKin Esports 有權要求選手提供身分證明。若選手無法提供或不符合區域要求，主辦單位有權隨時取消其參賽資格。
 
-          -   Qualifie team: 1
-            
-          -   Maximum number teams: 32
-            
-          -   Registration open: 00:00 June 1, 2026 ~ 13:55 June 20, 2026
-            
-          -   Registration link: [https://www.challengermode.com/s/iKinGG/tournaments/f4e50ba9-11cf-4a2d-fa1c-08de98a5b86b](https://www.challengermode.com/s/iKinGG/tournaments/f4e50ba9-11cf-4a2d-fa1c-08de98a5b86b)
-            
-          -   Date: June 20, 2026
-            
-          -   Eligible regions: Guangdong, Guangxi, Hong Kong, Macao, Fujian, Taiwan, Hainan, Hunan, Jiangxi
-      
-          - IN FACT
-            
-              - Only 3 teams check in when start so it can't run on CM, you can ckeck here for all informational for this qualifier: [https://www.kdocs.cn/l/ce9LSK3Ig32J](https://www.kdocs.cn/l/ce9LSK3Ig32J)
-      
-      -   Chinese Qualifier
- 
-          -   Qualifie team: 4
-            
-          -   Maximum number teams: 256
-            
-          -   Registration open: 00:00 June 1, 2026 ~ 12:00 June 24, 2026
-            
-          -   Registration teams link: [https://www.kdocs.cn/l/chWLxOdxSU8g](https://www.kdocs.cn/l/ck2SnIK7LLxP)
-            
-          -   Date: June 27-28, 2026
-            
-          -   Eligible regions: China, Hong Kong, Macao, Taiwan
+* **聯繫方式：** 所有晉級隊伍必須加入主賽事的 **[KOOK 伺服器](https://kook.vip/cG0QQS)**；若無法使用 KOOK，請於微信添加 `⌈KikiLam1216⌋` 或發送郵件至 `csevents@ikin.fun`。
+* **伺服器：** 亞洲及粵語預選賽透過 CM 於新加坡/香港/東京伺服器進行；中國預選賽透過 5EPlay 於杭州伺服器進行。
 
-     -   Asian Qualifier
+---
 
-          -   Qualifie team: 2
-            
-          -   Maximum number teams: 128
-            
-          -   Registration open: 00:00 June 1, 2026 ~ 13:55 July 4, 2026
-            
-          -   Registration link: [https://www.faceit.com/zh/championship/4dd1fe5e-89dc-488d-8dc0-18872debda3b/iKin%20Open%20Cup%201%20-%20Asian%20Qualifier](https://www.challengermode.com/s/iKinGG/tournaments/25448932-5285-4bb8-9b06-08deaf628dd5)
-            
-          -   Date: July 4, 2026
-            
-          -   Eligible regions: China, Hong Kong, Macao, Taiwan, Mongolia, Japan, Korea, Vietnam, Philippines, Malaysia, Singapore, Thailand, Laos, Cambodia, Myanmar, Indonesia, Brunei
-      
--   Teams need 3+ player form listed region, iKin Esports may require contestants to provide their identification if need. If they are unable to provide or do not meet the requirements of the competition area, the organizer has the right to cancel the team's qualification at any time.
+## 小組賽 (Group Stage)
+* **日期：** 2026 年 7 月 15 日至 16 日
+* **賽制：** 兩組雙敗淘汰制 (GSL)
+* **組別規模：** 每組 4 隊
+* **比賽模式：** 所有比賽皆為 Bo1
+* **晉級規則：** 
+    * 小組第 1 名：晉級至淘汰賽勝部準決賽 (UB Semifinals)
+    * 小組第 2-3 名：晉級至淘汰賽勝部半準決賽 (UB Quarterfinals)
 
--   All qualifie teams need join KOOK server for main event https://kook.vip/cG0QQS , or you can add ⌈KikiLam1216⌋ on WeChat or send email to csevents@ikin.fun if you can't use KOOK.
+---
 
--   Asian Qualifier & Cantonese Qualifier will play on Singapore / Hong Kong / Tokyo servers via CM, Chinese Qualifier will play on Hangzhou server via 5EPlay.
+## 淘汰賽 (Playoffs)
+* **日期：** 2026 年 7 月 17 日至 20 日
+* **賽制：** 雙敗淘汰制 (Double-Elimination)
+* **比賽模式：**
+    * 勝部半準決賽、勝部準決賽及敗部半準決賽：**Bo1**
+    * 總決賽：**Bo5**
+    * 其餘賽事：**Bo3**
 
-## Group Stage
+---
 
--   Date: July 15-16, 2026
-
--   Two double-elimination format (GSL) groups
-
--   Each group has 4 teams
-
--   All matches are Bo1
-
--   1st team from each group advance to the Playoffs UB Semifinals
-
--   2nd-3rd teams from each group advance to the Playoffs UB Quarterfinals
-
-## Playoffs
-
--   Date: July 17-20, 2026
-
--   Double-Elimination bracket
-
--   UB Quarterfinals, UB Semifinals and LB Quarterfinals are Bo1
-
--   Grand Final are Bo5
-
--   All other matches are Bo3
-
-## Prize Pool
-
--   Total: ￥6,666 CNY
-
-     -   1st: ￥5,678 CNY
-       
-     -   2nd: ￥988 CNY
+## 獎金分配 (Prize Pool)
+**總計：￥6,666 人民幣**
+* **冠軍：** ￥5,678 人民幣
+* **亞軍：** ￥988 人民幣
