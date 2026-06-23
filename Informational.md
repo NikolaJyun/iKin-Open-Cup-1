@@ -1,8 +1,22 @@
-# UPDATE 1
+# UPDATE
+
+- 23 June 2026, 22:00 HKT
+  
+     - Map pool change.
+       
+          - Main Event will using:
+      
+               - Ancient, Anubis, Cache, Dust2, Inferno, Mirage, Nuke
+      
+          - Open Qualifier will using:
+      
+               - Ancient, Anubis, Dust2, Inferno, Mirage, Nuke, Overpass
 
 - 22 June 2026, 21:00 HKT
-- This event are change name from # RGG Invitational Season 4 # to # iKin Open Cup 1 #
-- And change prize pool: From 6,666.66 CNY to 6,666 CNY
+  
+     - This event are change name from # RGG Invitational Season 4 # to # iKin Open Cup 1 #
+       
+     - And change prize pool: From 6,666.66 CNY to 6,666 CNY
 
 # iKin Open Cup 1
 
@@ -11,6 +25,10 @@
 -   Tournament Tier: Unrank
 
 -   Main Event Teams: 8
+  
+     - 1 Invited from [RGG Invitational Season 3](https://liquipedia.net/counterstrike/IKin_Esports/RGG_Invitational/Season_3)
+ 
+     - 7 Invited from Open Qualifier
 
 -   Prize Pool: ￥6,666 CNY
 
